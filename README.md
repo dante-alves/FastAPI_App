@@ -42,7 +42,7 @@ This project is a simple REST API built using **FastAPI**. It allows users to cr
 4. **Run the application:**
 
    ```bash
-   uvicorn main:app --reload
+   uvicorn blog.main:app --reload
    ```
 
 ## API Usage
@@ -82,4 +82,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Author
 
-Pedro Madruga
+Dante Alves e Silva
